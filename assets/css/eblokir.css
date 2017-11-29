@@ -1,0 +1,37 @@
+
+
+body {
+  padding:0px auto;
+}
+
+.container {
+  padding:0px;
+}
+
+#homepage {
+     background-size:cover;
+ }
+
+#page-header h1{
+  color : #fff;
+  font-size: $0px;
+  text-shadow: 3px 0px 9px rgba(153, 150, 150, 1);
+}
+
+#page-header h1 small {
+color : #fff;
+}
+
+
+
+
+.green {
+	color : green;
+}
+.red {
+	color:red;
+}
+
+#leasing td,#leasing th {
+	font-size:12px;
+}
