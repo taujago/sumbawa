@@ -58,9 +58,9 @@
     <div class="row" style="height:100px; padding-bottom: 100px;>
     	<div class="col-md-12">
     		<CENTER>
-    			<img width="10%	" height="10%" src="<?php echo base_url("assets/images/sumbawa.jpg") ?>">
+    			<img width="10%	" height="10%" src="<?php echo base_url("assets/images/logo-sumbawa-barat.png") ?>">
 
-    		<h3>DINAS PENDAPATAN DAN PELAYANAN SATU ATAP <BR />KABUPATEN SUMBAWA BARAT</h3>
+    		<h3>DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL<BR />KABUPATEN SUMBAWA BARAT</h3>
     	</CENTER>
     	</div>
     

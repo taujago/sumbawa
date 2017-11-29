@@ -123,7 +123,7 @@
 <div class="container">
 
  <div class="page-header" id="page-header">
-  <h1>SMS GATEWAY <BR /> <small> DINAS PENANAMAN MODAL DAN PELAYANAN SATU PINTU KABUPATEN SUMBAWA  </small></h1> 
+  <h1>SMS GATEWAY <BR /> <small> DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL KABUPATEN SUMBAWA BARAT  </small></h1> 
 </div>
 
 <nav class="navbar navbar-inverse">
